@@ -1,5 +1,7 @@
 # Bachelor_Project_Thesis_2023
-Summary of this Project
+<img width="147" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/7e80c045-3a29-4962-99e9-1c797bbbcab8">
+
+**Summary of this Project**
 
 As a Deep Learning (DL) based computer vision task, Object Detection(OD) is a critical component in gastrointestinal cancer endoscopy, 
 facilitating early diagnosis and improved treatment outcomes. However, further improvement is required due to the possible fatal consequences of misdetection. 
