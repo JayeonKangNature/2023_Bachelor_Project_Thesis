@@ -1,15 +1,15 @@
 ### Bachelor_Project_Thesis_2023
 
-**Link for our thesis:** 
+**Link for our thesis 📑:** 
 
 https://docs.google.com/document/d/1ZtumNrfg70z-JFL2MlC93SCOuWX6MHne/edit?usp=sharing&ouid=100846801129201061088&rtpof=true&sd=true
 
 
-**Link for our Defense Presentation:** 
+**Link for our Defense Presentation👩‍🏫:** 
 
 https://docs.google.com/presentation/d/1YvtJh6l1Gs0jVcfTxuw5XULXHRJjlI55bLmxg_Ptv-8/edit?usp=sharing
 
-# **ERROR ANALYSIS OF DEEP LEARNING-BASED OBJECT DETECTION IN MEDICAL IMAGES**
+# **ERROR ANALYSIS OF DEEP LEARNING-BASED OBJECT DETECTION IN MEDICAL IMAGES ⚒️**
 
 
 <div align="center">
