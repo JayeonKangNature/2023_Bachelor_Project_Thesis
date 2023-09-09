@@ -30,7 +30,7 @@ The study aims to provide insights into annotations and enable better model comp
 
 Natural Dataset Analysis to Gain Insight into the Object Detection Processes of YOLOv7 and Faster R-CNN, and Formulating Hypotheses for Their Performance on Medical Datasets
 <div align="center">
-<img width="549" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/a60f1045-8f09-44af-b96c-3d05f275eb83">
+<img width="600" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/a60f1045-8f09-44af-b96c-3d05f275eb83">
 </div>
 
 
@@ -38,7 +38,7 @@ Natural Dataset Analysis to Gain Insight into the Object Detection Processes of 
 
 Medical Datasets Analysis to Verify Hypotheses and Investigate Error Patterns in the Medical Dataset
 <div align="center">
-<img width="549" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/e46f29f3-b6ed-47f6-ae1d-816fe89f47e0">
+<img width="600" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/e46f29f3-b6ed-47f6-ae1d-816fe89f47e0">
 </div>
 
 
