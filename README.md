@@ -17,7 +17,7 @@ https://docs.google.com/presentation/d/1YvtJh6l1Gs0jVcfTxuw5XULXHRJjlI55bLmxg_Pt
 </div>
 
 
-**Summary of this Project**
+### **Summary of this Project**
 
 As a Deep Learning (DL) based computer vision task, Object Detection(OD) is a critical component in gastrointestinal cancer endoscopy,
 facilitating early diagnosis and improved treatment outcomes. However, further improvement is required due to the possible fatal consequences of misdetection. 
