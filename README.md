@@ -15,7 +15,10 @@ Analyzed results have proven their effectiveness by tracing back to point out da
 and enable more informed model comparisons based on comprehensive error analysis. The ultimate goal is to enhance the development and selection of object detection models for gastrointestinal cancer endoscopy, leading to more accurate and reliable diagnosis and improved patient outcomes.
 
 **Visual Abstract of Our Project**
+
+
 <img width="438" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/43a297f3-689f-41ec-b335-4c02804c5828">
+
 
 
 **Link for our thesis:** https://docs.google.com/document/d/1ZtumNrfg70z-JFL2MlC93SCOuWX6MHne/edit?usp=sharing&ouid=100846801129201061088&rtpof=true&sd=true
