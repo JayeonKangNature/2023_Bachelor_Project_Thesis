@@ -1,7 +1,10 @@
-# Bachelor_Project_Thesis_2023
+### Bachelor_Project_Thesis_2023
 ## **ERROR ANALYSIS OF DEEP LEARNING-BASED OBJECT DETECTION IN MEDICAL IMAGES**
 
+
+<div align="center">
 <img width="400" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/7e80c045-3a29-4962-99e9-1c797bbbcab8">
+</div>
 
 
 **Summary of this Project**
@@ -14,11 +17,12 @@ By comprehensively examining the errors classified by the TIDE, the study offers
 Analyzed results have proven their effectiveness by tracing back to point out dataset problems or as an index for hyperparameter tuning. The findings provide guidance for improving annotation practices 
 and enable more informed model comparisons based on comprehensive error analysis. The ultimate goal is to enhance the development and selection of object detection models for gastrointestinal cancer endoscopy, leading to more accurate and reliable diagnosis and improved patient outcomes.
 
-**Visual Abstract of Our Project**
+## **Visual Abstract of Our Project**
 
 
-<img width="438" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/43a297f3-689f-41ec-b335-4c02804c5828">
-
+<div align="center">
+<img width="500" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/43a297f3-689f-41ec-b335-4c02804c5828">
+</div>
 
 
 **Link for our thesis:** https://docs.google.com/document/d/1ZtumNrfg70z-JFL2MlC93SCOuWX6MHne/edit?usp=sharing&ouid=100846801129201061088&rtpof=true&sd=true
