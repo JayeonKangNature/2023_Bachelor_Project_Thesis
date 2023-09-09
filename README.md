@@ -1,5 +1,5 @@
 # Bachelor_Project_Thesis_2023
-<img width="147" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/7e80c045-3a29-4962-99e9-1c797bbbcab8">
+<img width="250" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/7e80c045-3a29-4962-99e9-1c797bbbcab8">
 
 **Summary of this Project**
 
