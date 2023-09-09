@@ -11,3 +11,8 @@ related to gastrointestinal cancer endoscopy are utilized.
 By comprehensively examining the errors classified by the TIDE, the study offers valuable insights into the strengths and limitations of the models for accurate diagnosis. 
 Analyzed results have proven their effectiveness by tracing back to point out dataset problems or as an index for hyperparameter tuning. The findings provide guidance for improving annotation practices 
 and enable more informed model comparisons based on comprehensive error analysis. The ultimate goal is to enhance the development and selection of object detection models for gastrointestinal cancer endoscopy, leading to more accurate and reliable diagnosis and improved patient outcomes.
+
+
+
+**Link for our thesis:** https://docs.google.com/document/d/1ZtumNrfg70z-JFL2MlC93SCOuWX6MHne/edit?usp=sharing&ouid=100846801129201061088&rtpof=true&sd=true
+**Link for our Defense Presentation:** https://docs.google.com/presentation/d/1YvtJh6l1Gs0jVcfTxuw5XULXHRJjlI55bLmxg_Ptv-8/edit?usp=sharing
