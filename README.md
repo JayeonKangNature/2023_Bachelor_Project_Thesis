@@ -24,6 +24,17 @@ facilitating early diagnosis and improved treatment outcomes. However, further i
 This study presents a comprehensive error analysis for OD models with Toolkit for Identifying Detection Errors (TIDE) specifically tailored for gastrointestinal cancer endoscopy.
 The study aims to provide insights into annotations and enable better model comparisons through detailed error analysis. Multiple datasets representing natural and medical scenarios related to gastrointestinal cancer endoscopy are utilized. By comprehensively examining the errors classified by the TIDE, the study offers valuable insights into the strengths and limitations of the models for accurate diagnosis. Analyzed results have proven their effectiveness by tracing back to point out dataset problems or as an index for hyperparameter tuning. The findings provide guidance for improving annotation practices and enable more informed model comparisons based on comprehensive error analysis. The ultimate goal is to enhance the development and selection of object detection models for gastrointestinal cancer endoscopy, leading to more accurate and reliable diagnosis and improved patient outcomes.
 
+## **What is TIDE?**
+
+TIDE is Tool Kit Identify Detection Error as alyzing errors in results of predicted detection (like boudning box and classification).
+You can see example below:
+
+<img width="958" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/eb9d40cb-8ac4-46dc-8b4e-5773b7fc0eaf">
+
+
+
+
+
 ## **Visual Abstract of Our Project**
 
 ### **Step 1**
