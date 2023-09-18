@@ -54,9 +54,8 @@ Medical Datasets Analysis to Verify Hypotheses and Investigate Error Patterns in
 
 ## What I do during this project?
 
-* TIDE Paper
-* Faster RCNN and YOLOv7
-* Kvasir and COCO dataset paper
-* Train meidcal 
-* Use code provide TIDE
-* Analysis TIDE result
+* Developed code to train YOLOv7 and Faster RCNN models on the medical set
+* Studied the architectures of both models and conducted expectation of OD predictions on the natural dataset, supported by relevant research papers
+* Acquired expertise in current performance evaluation methods (IoU and mAP) for OD models
+* Analyzed and understood TIDE framework and its underlying methodology through research paper about TIDE
+* Performed a comparative analysis of model performance using TIDE, providing interpretation of results
