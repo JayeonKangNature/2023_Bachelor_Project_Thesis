@@ -52,4 +52,11 @@ Medical Datasets Analysis to Verify Hypotheses and Investigate Error Patterns in
 <img width="600" alt="image" src="https://github.com/JayeonKangNature/Bachelor_Project_Thesis_2023/assets/143944699/e46f29f3-b6ed-47f6-ae1d-816fe89f47e0">
 </div>
 
+## What I do during this project?
 
+* TIDE Paper
+* Faster RCNN and YOLOv7
+* Kvasir and COCO dataset paper
+* Train meidcal 
+* Use code provide TIDE
+* Analysis TIDE result
